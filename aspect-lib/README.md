@@ -22,3 +22,5 @@ dependencies {
         classpath 'org.aspectj:aspectjweaver:1.9.3'
     }
 ```
+
+* 此项目不支持 Kotlin。需要支持的话，可以使用第三方插件 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
